@@ -8,7 +8,7 @@ if(volver){
 let wsp = document.getElementById('wsp');
 wsp.addEventListener('click', function(){
     //wsp.setAttribute('target', '_blank');
-    window.open('https://wa.me/+554197153863?text=Hola,%20estoy%20interesado%20en%20contactarte por un producto de moppets-curitiba.', '_blank');
+    window.open('https://wa.me/+?text=Hola,%20estoy%20interesado%20en%20contactarte por un producto de moppets-curitiba.', '_blank');
 });
 
 document.addEventListener('DOMContentLoaded', () => {
